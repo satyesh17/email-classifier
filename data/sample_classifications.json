@@ -1,0 +1,417 @@
+[
+  {
+    "index": 0,
+    "subject": "Tiger et al",
+    "email_body_preview": "It seems that Miriam Radach has been transferred to Sherman & Sterling's  Washington D.C. office.\nShe is working with a NY associate named Jennifer  Kumble.\nThe lawyers had a lot of issues to discuss ",
+    "classification": {
+      "priority": "low",
+      "summary": "Update on Miriam Radach transfer to Washington D.C. office & upcoming discussions with Tiger.",
+      "action_required": false,
+      "category": "sales"
+    },
+    "latency_ms": 311.4,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 1,
+    "subject": "Constellation TA",
+    "email_body_preview": "Gregg,   As we discussed...\nI would add the following provision at the end of the  second sentence in Section VIII A.\n(3):  ;provided however, in the event that Seller's invoice to Buyer is delayed du",
+    "classification": {
+      "priority": "medium",
+      "summary": "Update provision in second sentence of Section VIII A.",
+      "action_required": true,
+      "category": "billing"
+    },
+    "latency_ms": 214.8,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 2,
+    "subject": "Beavers Tickets for MONDAY, 30 July",
+    "email_body_preview": "Please consider hosting the Enron Suite while we help the community!!\nWe have donated our Suite to Metropolitan Family Services on Monday, and need an Enron representative!\nI have 2 tickets and one pa",
+    "classification": {
+      "priority": "low",
+      "summary": "Donating Enron Suite to a community service",
+      "action_required": true,
+      "category": "other"
+    },
+    "latency_ms": 199.4,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 3,
+    "subject": "Enron Article",
+    "email_body_preview": "Investing, One Stock=20 =20 Broad Horizons=20 =20 by Jeff Schlegel=20 =20 December 2000, \"Worth\" magazine=20 =20 Energy giant Enron is expanding its powerful trading platform into the hear= t=20 of th",
+    "classification": null,
+    "latency_ms": null,
+    "success": false,
+    "error": "InstructorRetryException: <failed_attempts>\n\n<generation number=\"1\">\n<exception>\n    4 validation errors for EmailClassification\npriority\n  Field required [type=missing, input_value={'properties': {'priority..., 'category': 'e"
+  },
+  {
+    "index": 4,
+    "subject": "Attn. Facilities Managers",
+    "email_body_preview": "Are you in the need for professional furniture service?\nIs your modular (cubicle) furniture being mis-treated by inexperienced service companies?\nRecon Office Solutions has put together an outfit of e",
+    "classification": {
+      "priority": "low",
+      "summary": "Get professional furniture service from Recon Office Solutions",
+      "action_required": true,
+      "category": "sales"
+    },
+    "latency_ms": 322.0,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 5,
+    "subject": "Cal Imbalance Deals - 5/3",
+    "email_body_preview": "I've entered the following imbalance deals under STCA and STWBom desks.\n599966 STCA sells Cal Imb  NP-15  On Peak 38 MW  600031 STWB sells Cal Imb NP-15 On Peak 37 MW  Let me know if you have any ques",
+    "classification": {
+      "priority": "medium",
+      "summary": "Imbalance deals entered under STCA and STWB desks",
+      "action_required": true,
+      "category": "billing"
+    },
+    "latency_ms": 3359.5,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 6,
+    "subject": "Competitive Analysis Update #24- US Response to Terrorism",
+    "email_body_preview": "Updates below on Afghanistan campaign, key issues for energy/financial markets in \"phase two\"of campaign, Federal Reserve activity, and nuclear plant security.\nRJ  Special Forces/Low Intensity Campaig",
+    "classification": {
+      "priority": "high",
+      "summary": "US military operation in Afghanistan has begun, focusing on special forces and intelligence gathering",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 34917.6,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 7,
+    "subject": "Our Wonderful Company",
+    "email_body_preview": "Dear Mr. Lay,  I know that you are a very busy man and really don't have time to read messages from your employees, but I just had to write you of my thought and feelings.\nI haven't been sleeping very",
+    "classification": {
+      "priority": "low",
+      "summary": "Expressing concern and support for Enron during a difficult time.",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 199.8,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 8,
+    "subject": "enovate update",
+    "email_body_preview": "Barbara, here is the document I discussed concerning some of the Chicago  stuff.\nJeff, I don't know if you have received this from Gregg all ready.\nKay\n",
+    "classification": {
+      "priority": "low",
+      "summary": "Follow-up on Chicago document",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 3229.9,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 9,
+    "subject": "Bike Teams",
+    "email_body_preview": "Below are the teams.\nFirst member of each team is the captain.\nPlease let me know if I left anyone off.\nChallenge is on between teams:   \tDistance Total \t% of Trips \tTotal Trips  Start recruiting now!",
+    "classification": {
+      "priority": "low",
+      "summary": "Team Captains and Members for Upcoming Challenge",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 6342.2,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 10,
+    "subject": "3-rivers / King Ranch / HPLR Liquids",
+    "email_body_preview": "In February, 539,594 Mmbtu were allocated to the our index purchase from HPLR  Liquids at King Ranch.\nThis allocation resulted in a large physical  unaccounted for loss.\nEffectively, the gas was being",
+    "classification": {
+      "priority": "medium",
+      "summary": "Double booking issue in gas allocation from HPLR Liquids at King Ranch",
+      "action_required": false,
+      "category": "billing"
+    },
+    "latency_ms": 9359.3,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 11,
+    "subject": "NPW Disclosure",
+    "email_body_preview": "Personal & Confidential  Marc:  Given your message to me the other night, as well as recent communications between your commercial personnel and our credit group, I want to again review the NPW disclo",
+    "classification": {
+      "priority": "high",
+      "summary": "Disclosing NPW issues and scheduling a meeting",
+      "action_required": true,
+      "category": "billing"
+    },
+    "latency_ms": 3258.2,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 12,
+    "subject": "M: Drive Down",
+    "email_body_preview": "The M: drive is currently down Houston is aware of the problem and working to resolve it.\nRight now there is no ETA on when it will be fixed.\nWe will keep you updated as soon as we get any information",
+    "classification": {
+      "priority": "low",
+      "summary": "M: drive is currently down, no ETA for fix",
+      "action_required": false,
+      "category": "support"
+    },
+    "latency_ms": 4285.1,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 13,
+    "subject": "ETOL",
+    "email_body_preview": "I will be handling the derivatives side of the ETOL transaction this time so  future communications should probably come to me directly.\nI will be  reviewing the ISDA draft this weekend and it would b",
+    "classification": {
+      "priority": "low",
+      "summary": "Request for ETOL transaction description and term sheet",
+      "action_required": true,
+      "category": "billing"
+    },
+    "latency_ms": 3286.1,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 14,
+    "subject": "Thursday Dinner",
+    "email_body_preview": "Sally, Just wanted to confirm tomorrow evening dinner.\nAre we still on?\nWanted to know your preference...where to meet.\nI will be at the Hyatt Regency accross the street from Enron.\nLooking forward to",
+    "classification": {
+      "priority": "low",
+      "summary": "Confirming dinner plans for tomorrow evening",
+      "action_required": false,
+      "category": "other"
+    },
+    "latency_ms": 4259.0,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 15,
+    "subject": "BA/E296.1 Questionnaire-due Oct. 25",
+    "email_body_preview": "******************************************* University of California - Berkeley Haas School of Business Fall 2001 BA/E 296.1 - Nonprofit Boards of Directors *******************************************",
+    "classification": {
+      "priority": "low",
+      "summary": "Student Questionnaire for Nonprofit Boards of Directors course at Haas School of Business.",
+      "action_required": false,
+      "category": "other"
+    },
+    "latency_ms": 7560.1,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 16,
+    "subject": "Midway LOI (prototype for Ft P)",
+    "email_body_preview": "As requested, here is the current draft of the Midway LOI.\nThe counter party  has not seen this draft yet, so this is still preliminary.\nI'm reviewing the term sheet re toll.\nKay\n",
+    "classification": {
+      "priority": "medium",
+      "summary": "Midway LOI draft review and term sheet consideration",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 13752.4,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 17,
+    "subject": "Year End Ratings",
+    "email_body_preview": "In order for me to effectively represent you at the ETS PRC  and for some of  you at the Accounting and Finance PRC's I will need some information from  each of you.\nPlease send the following to Kathy",
+    "classification": {
+      "priority": "medium",
+      "summary": "Confirmation of information required for effective representation at various PRC's",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 5316.4,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 18,
+    "subject": "Tabors",
+    "email_body_preview": "Kevin   Richard Tabors number is 617 543 5304.\nJohn Basinger and Barrett Reasoner  with the Gibbs and Brun law firm would like to get a hold day with him ASAP.\nThanks for your help\n",
+    "classification": {
+      "priority": "medium",
+      "summary": "Meeting request with Gibbs and Brun law firm",
+      "action_required": false,
+      "category": "sales"
+    },
+    "latency_ms": 3269.6,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 19,
+    "subject": "Saturday, Sep 22 - Mt. Tabor",
+    "email_body_preview": "Don't forget to mark your calendars for our company picnic at  Mt.\nTabor on Saturday, September 22, at Noon.\nBring your family!\nA Hawaiian band and live hula dancers will provide the entertainment.\nGa",
+    "classification": {
+      "priority": "low",
+      "summary": "Company Picnic at Mt. Tabor",
+      "action_required": true,
+      "category": "other"
+    },
+    "latency_ms": 4269.7,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 20,
+    "subject": "Amendments from Stacy Dickson - Resending, 1st attempt failed",
+    "email_body_preview": "Fred: Here is what we sent to Harry Stout.\nLisa has been requesting from them a  copy of the pleadings to make sure that all of our requested changes have  been made and as of yesterday, I don't think",
+    "classification": {
+      "priority": "medium",
+      "summary": "Lisa requesting copy of pleadings and update on bankruptcy proceedings.",
+      "action_required": false,
+      "category": "support"
+    },
+    "latency_ms": 4319.5,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 21,
+    "subject": "CORRECTION:  Outlook Outage - Friday, December 28, 2001",
+    "email_body_preview": "This is a notice to inform you that the server where your Outlook mailbox resides is scheduled for an outage tonight.\nYour mailbox will be temporarily unavailable starting anytime after 11pm and may c",
+    "classification": {
+      "priority": "low",
+      "summary": "Server outage notice for Outlook mailbox tonight",
+      "action_required": false,
+      "category": "support"
+    },
+    "latency_ms": 4258.0,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 22,
+    "subject": "How Are You?",
+    "email_body_preview": "Sara: I am really looking forward to seeing you and Mary next week.\nBill has jury  duty on Tuesday and I'm assuming that he will not be picked.\nI'll let you  know if we need to reschedule.\nI am doing ",
+    "classification": {
+      "priority": "low",
+      "summary": "Catch-up on personal and work updates, reschedule if needed, discuss potential return plans",
+      "action_required": false,
+      "category": "other"
+    },
+    "latency_ms": 4280.0,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 23,
+    "subject": "Quick Update",
+    "email_body_preview": "Bill and Friends: FYI, things are still quite tight here.\nsigned a number of netting agreements and some collateral as well towards the end of last week.\nFri nite signed 'ring-type' trade with Innogy ",
+    "classification": {
+      "priority": "medium",
+      "summary": "Brief update on recent developments and upcoming meeting",
+      "action_required": true,
+      "category": "sales"
+    },
+    "latency_ms": 6329.5,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 24,
+    "subject": "Allegheny",
+    "email_body_preview": "Tracy:  The Allegheny swap side letter provides that the parties will make a good  faith effort to negotiate the ISDA master by April 6.\nI am waiting with the  firrst redraft of the agreement but can'",
+    "classification": {
+      "priority": "high",
+      "summary": "Awaiting response on ISDA master renegotiation",
+      "action_required": true,
+      "category": "sales"
+    },
+    "latency_ms": 4384.6,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 25,
+    "subject": "Wessex Vauation Review",
+    "email_body_preview": "Rod-  This is the AA memo they discussed with us last Friday.\nI have prepared a package to respond to all the points.\nI plan to send it to them tomorrow morning.\nI have discussed the package and its c",
+    "classification": {
+      "priority": "medium",
+      "summary": "Respond to AA memo",
+      "action_required": false,
+      "category": "billing"
+    },
+    "latency_ms": 3236.6,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 26,
+    "subject": "You are included in the Waiting List",
+    "email_body_preview": "Dear DARRON GIRON,   You have been added to the waiting list for the following.\nCourse Title : 'Understanding Options' Session Code : 103101   The course details are given below for your confirmation.",
+    "classification": {
+      "priority": "medium",
+      "summary": "Added to waiting list for 'Understanding Options' course",
+      "action_required": false,
+      "category": "sales"
+    },
+    "latency_ms": 5328.3,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 27,
+    "subject": "clay historicals",
+    "email_body_preview": "Angela,  It's me, your favorite coworker!\nAttached is, yet again, an Access file with  a table of historicals for clay basin (Questar pipeline).\nBefore they can be  loaded, however, a new location nee",
+    "classification": {
+      "priority": "low",
+      "summary": "Need to add a location before loading historical data for Questar pipeline",
+      "action_required": false,
+      "category": "other"
+    },
+    "latency_ms": 4341.5,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 28,
+    "subject": "Dabhol Phase II l/cs",
+    "email_body_preview": "did i send this to already?\nfyi.\nthis was very contentious at India mtg w/  Lay & Skilling.\nWe need to understand what our exposure is.\nYou need to  become our India expert.\nTx Rick\n",
+    "classification": {
+      "priority": "high",
+      "summary": "India mtg exposure",
+      "action_required": true,
+      "category": "support"
+    },
+    "latency_ms": 12619.6,
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 29,
+    "subject": "Action needed! Center for Houston's Future CEO search",
+    "email_body_preview": "The Partnership's affiliate 501c3, the Center for Houston's Future, has embarked on a search for a CEO who can continue the outstanding work begun by Gene Vaughan, Jim Royer and several other voluntee",
+    "classification": {
+      "priority": "low",
+      "summary": "Assistance Needed in Finding Qualified Candidate for CEO Position",
+      "action_required": true,
+      "category": "sales"
+    },
+    "latency_ms": 5479.6,
+    "success": true,
+    "error": null
+  }
+]
