@@ -5,6 +5,7 @@ python-dotenv>=1.0
 # LLM clients (we already know these work)
 google-generativeai>=0.7
 huggingface_hub>=0.24
+groq>=0.10
 
 # Instructor — Pydantic-aware LLM wrapper (we'll use this in Milestone 6)
 instructor>=1.0
